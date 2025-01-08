@@ -2,3 +2,6 @@ build/
 node_modules/
 config.json
 try-get-*
+.DS_Store
+.trace
+.coverage_map.mvcov
